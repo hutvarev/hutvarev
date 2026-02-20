@@ -1,16 +1,21 @@
-## Hi there 👋
+## Artem Hutvarev
 
-<!--
-**hutvarev/hutvarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology work focused on phase-field computation, topology operators, and synchronization dynamics.
 
-Here are some ideas to get you started:
+**Primary project:**  
+TOCTET Kernel Architecture  
+https://github.com/hutvarev/TOCTET-Kernel-Architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sites**  
+https://toctet.com  
+https://hutvarev.com  
+
+**Focus**
+- bounded oscillator fields  
+- topology as program  
+- SDF computation  
+- observability systems  
+- swarm synchronization  
+
+TOCTET is a phase-synchronous field architecture where execution emerges from
+synchronization across bounded fields rather than instruction scheduling.
