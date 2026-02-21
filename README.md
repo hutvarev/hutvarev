@@ -4,7 +4,10 @@ Technology work focused on phase-field computation, topology operators, and sync
 
 **Primary project:**  
 TOCTET Kernel Architecture  
-https://github.com/hutvarev/TOCTET-Kernel-Architecture  
+<img width="25%" height="25%" alt="logo-1x1" src="https://github.com/user-attachments/assets/1199a357-8eaf-43aa-a27f-8f280c70ea52" /><br>
+https://github.com/hutvarev/TOCTET-Kernel-Architecture 
+
+
 
 **Sites**  
 https://toctet.com  
